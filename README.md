@@ -8,3 +8,6 @@ SO
 I took that one ( https://github.com/Yatchanek/Solitaire ), replaced its assets and then translated dialogs (to French).
 
 You can unzip the binaries with 7-Zip. ENJOY!
+
+
+https://youtu.be/Ej8ObW_1WgA
